@@ -1,3 +1,1 @@
-Reducer Exercises
-
-Working with `array.reduce()`
+Using cats to get practice with redux because, well, everyone likes cats.
