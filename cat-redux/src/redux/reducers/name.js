@@ -1,6 +1,6 @@
 import { ACTION_SET_NAME } from "../actionTypes";
 
-const initialState = "Guster"
+const initialState = "Finnbar";
 
 const nameReducer = (state = initialState, action) => {
   switch (action.type) {
